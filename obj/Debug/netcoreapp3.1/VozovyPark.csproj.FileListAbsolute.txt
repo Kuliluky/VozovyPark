@@ -1,0 +1,16 @@
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\bin\Debug\netcoreapp3.1\VozovyPark.exe
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\bin\Debug\netcoreapp3.1\VozovyPark.deps.json
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\bin\Debug\netcoreapp3.1\VozovyPark.runtimeconfig.json
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\bin\Debug\netcoreapp3.1\VozovyPark.runtimeconfig.dev.json
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\bin\Debug\netcoreapp3.1\VozovyPark.dll
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\bin\Debug\netcoreapp3.1\VozovyPark.pdb
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\obj\Debug\netcoreapp3.1\VozovyPark.csprojAssemblyReference.cache
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\obj\Debug\netcoreapp3.1\VozovyPark.AssemblyInfoInputs.cache
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\obj\Debug\netcoreapp3.1\VozovyPark.AssemblyInfo.cs
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\obj\Debug\netcoreapp3.1\VozovyPark.dll
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\obj\Debug\netcoreapp3.1\VozovyPark.pdb
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\obj\Debug\netcoreapp3.1\VozovyPark.genruntimeconfig.cache
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\obj\Debug\netcoreapp3.1\VozovyPark.csproj.CopyComplete
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sakul\source\repos\VozovyPark\VozovyPark\obj\Debug\netcoreapp3.1\VozovyPark.csproj.CoreCompileInputs.cache
